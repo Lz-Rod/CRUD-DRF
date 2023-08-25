@@ -22,7 +22,7 @@ http://127.0.0.1:8000/admin/
 - Cadastro e edição de endereços - Aqui é possivel cadastrar, editar ou apagar os endereços.
 
 ## Configuração do DB:
-O dump do DB usado está no caminho: https://github.com/Lz-Rod/CRUD-DRF/docs/db
+O dump do DB usado está no caminho: https://github.com/Lz-Rod/CRUD-DRF/blob/main/docs/db
 
 ![print_menu](https://github.com/Lz-Rod/CRUD-DRF/blob/main/docs/img/acesso-db-localhost.png)
 - O DB está configurado no arquivo settings.py como localhost.
